@@ -1,4 +1,4 @@
-- 👋 Hi, We're BSSD
+- 👋 Hi, we're BSSD
 
 <!---
 bssd-co-ltd/bssd-co-ltd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
